@@ -25,6 +25,3 @@ function iLoveTheBeatles(number) {
   } while ((phraseCount <= number) || (phraseCount < 15));
   return arrayFanPhrases;
 }
-
-theBeatlesPlay (musicians, instruments);
-johnLennonFacts(lennonFacts);
