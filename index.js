@@ -24,11 +24,14 @@ function iLoveTheBeatles(number) {
     return (arrayFanPhrases);
   }
   else {
+
     do {
       arrayFanPhrases[phraseCount] = "I love the Beatles\!";
       phraseCount++;
     } while (phraseCount <= number);
-    return arrayFanPhrases;
-  }
 
-}
+    return arrayFanPhrases;
+
+  }//else
+
+} //func iLoveTheBeatles
