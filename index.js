@@ -5,7 +5,7 @@ function theBeatlesPlay(arrayMusicians, arrayInstruments) {
     arrayString[count] = `${arrayMusicians[count]} plays ${arrayInstruments[count]}`;
   }
   return arrayString;
-}
+}//funct-end theBeatlesPlay
 
 function johnLennonFacts(lennonFacts) {
   var factsCount = 0;
