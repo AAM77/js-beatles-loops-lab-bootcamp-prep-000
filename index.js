@@ -23,5 +23,6 @@ function iLoveTheBeatles (number) {
     arrayFanPhrases[phraseCount] = "I love the Beatles\!";
     phraseCount++;
   } while ((phraseCount <= number) || (phraseCount < 15));
+  console.log(arrayFanPhrases);
   return arrayFanPhrases;
 }
