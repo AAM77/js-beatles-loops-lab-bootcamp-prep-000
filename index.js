@@ -1,0 +1,24 @@
+function theBeatlesPlay (arrayMusicians, arrayIntruments) {
+  var arrayString = [];
+  for (var count = 0; count < arrayMusicians.length; count++) {
+    array[count] = `"${arrayMusicians[count]} plays ${arrayInstruments}"`;
+    return arrayString;
+  }
+}
+
+function johnLennonFacts (lennonFacts) {
+  var factsCount = 0;
+  while (factsCount < lennonFacts.length) {
+    lennonFacts[factsCount] = `"${lennonFacts[factsCount]}\!\!\!"`;
+    return lennonFacts;
+  }
+}
+
+function iLoveTheBeatles (number) {
+  var arrayFanPhrases = [];
+  var phraseCount = 0;
+  do {
+    arrayFanPhrases[phraseCount] = "I love the Beatles\!";
+  } while (phraseCount < 15);
+  return arrayFanPhrases;
+}
