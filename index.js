@@ -23,6 +23,9 @@ function iLoveTheBeatles(number) {
     arrayFanPhrases.push("I love the Beatles\!");
     return (arrayFanPhrases);
   }
+  else {
+    
+  }
   do {
     arrayFanPhrases[phraseCount] = "I love the Beatles\!";
     phraseCount++;
