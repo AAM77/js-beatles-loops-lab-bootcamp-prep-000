@@ -27,3 +27,4 @@ function iLoveTheBeatles(number) {
 }
 
 theBeatlesPlay (musicians, instruments);
+johnLennonFacts(lennonFacts);
