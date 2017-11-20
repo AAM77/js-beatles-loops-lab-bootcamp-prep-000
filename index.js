@@ -1,4 +1,4 @@
-const arrayString = [];
+var arrayString = [];
 
 function theBeatlesPlay (arrayMusicians, arrayInstruments) {
   for (var count = 0; count < arrayMusicians.length; count++) {
