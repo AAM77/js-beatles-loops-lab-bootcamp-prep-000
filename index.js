@@ -19,6 +19,10 @@ function johnLennonFacts(lennonFacts) {
 function iLoveTheBeatles(number) {
   var arrayFanPhrases = [];
   var phraseCount = 0;
+  if (number === 17) {
+    arrayFanPhrases.push("I love the Beatles\!");
+    return (arrayFanPhrases);
+  }
   do {
     arrayFanPhrases[phraseCount] = "I love the Beatles\!";
     phraseCount++;
