@@ -12,7 +12,7 @@ function johnLennonFacts (lennonFacts) {
     lennonFacts[factsCount] = `${lennonFacts[factsCount]} + "!!!"`;
     factsCount++;
   }
-      return lennonFacts;
+    return lennonFacts;
 }
 
 function iLoveTheBeatles (number) {
