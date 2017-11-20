@@ -1,7 +1,7 @@
 function theBeatlesPlay (arrayMusicians, arrayIntruments) {
   var arrayString = [];
   for (var count = 0; count < arrayMusicians.length; count++) {
-    array[count] = `${arrayMusicians[count]} plays ${arrayInstruments[count]}"`;
+    array[count] = `${arrayMusicians[count]} plays ${arrayInstruments[count]}`;
   }
   return arrayString;
 }
